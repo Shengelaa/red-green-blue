@@ -1,0 +1,48 @@
+.container {
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+button {
+  width: 100px;
+  height: 50px;
+  cursor: pointer;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.color {
+  height: 300px;
+  width: 100%;
+}
+
+.redblock {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+.blueblock {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+}
+
+.greenblock {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
